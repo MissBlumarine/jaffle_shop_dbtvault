@@ -7,3 +7,4 @@ sources:
     tables:
       - name: source_customers
       - name: source_orders
+      - name: soerce_customers_crm
