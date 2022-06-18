@@ -30,6 +30,7 @@ models:
       tags:
         - 'stage'
       materialized: view
+      # materialized: incremental
     raw_vault:
       tags:
         - 'raw_vault'
